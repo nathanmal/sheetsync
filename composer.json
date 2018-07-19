@@ -1,0 +1,14 @@
+{
+    "name": "nathanmal/sheetsync",
+    "description": "Sync your posts with private Google Spreadsheets",
+    "require": {
+        "google/apiclient": "^2.2"
+    },
+    "license": "GPL version 2",
+    "authors": [
+        {
+            "name": "Nathan Malachowski",
+            "email": "nathanmal@gmail.com"
+        }
+    ]
+}
